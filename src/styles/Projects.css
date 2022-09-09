@@ -1,0 +1,101 @@
+#projects {
+    margin-top: 7%;
+    margin-left: 15%;
+    width: 85em;
+}
+.carousel.slide {
+    margin-left: 12.5%;
+    max-width: 60em;
+    padding-bottom: 4.5%;
+}
+.carousel-inner {
+    height: 33.75em;
+    border-radius: 1.5em;
+    box-shadow: 0 0.25em 0.5em 0 rgb(0 0 0 / 20%),
+    0 0.375em 1.25em 0 rgb(0 0 0 / 19%);
+}
+.carousel-indicators .active {
+    background-color: var(--green-bright);
+}
+.carousel-inner:hover {
+    transform: scale(1.02);
+}
+.carousel img {
+    object-fit: contain;
+    opacity: 0.5;
+}
+.carousel-caption h3 {
+    font-size: 2.375em;
+    font-weight: bold;
+    color: var(--lightest-slate);
+    margin-bottom: 2%;
+}
+.carousel-caption p {
+    font-family: "NTR", sans-serif;
+    font-weight: bold;
+    font-size: 1.125em;
+    color: var(--lightest-slate);
+}
+.carousel-caption p.techStack {
+    font-family: "NTR", sans-serif;
+    font-size: 0.875em;
+    font-weight: bold;
+    color: var(--green-bright);
+}
+.carousel-caption a {
+    color: var(--lightest-slate);
+}
+.carousel-caption a:hover {
+    color: var(--green-bright);
+}
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(18.75em, 25em));
+    grid-gap: 0.8em;
+}
+.projects-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 2em 2em 2em 2em;
+    background-color: var(--light-navy);
+    border-radius: 16px;
+}
+.projects-card:hover {
+    transform: translateY(-0.438em);
+    background-color: var(--lightest-navy);
+}
+.folder-icon {
+    color: var(--green-bright);
+}
+.card-header {
+    margin-top: -1.25em;
+    display: flex;
+    padding: 1.25em 0;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: none;
+}
+.card-header a {
+    color: var(--lightest-slate);
+}
+.card-header a:hover {
+    color: var(--green-bright);
+}
+.card-title {
+    font-family: "NTR", sans-serif;
+    color: var(--lightest-slate);
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.card-desc {
+    font-family: "NTR", sans-serif;
+    color: var(--slate);
+    font-size: 1.125em;
+    padding-bottom: 2.5em;
+}
+.card-tech {
+    font-family: "NTR", sans-serif;
+    color: var(--slate);
+    font-size: 1em;
+}

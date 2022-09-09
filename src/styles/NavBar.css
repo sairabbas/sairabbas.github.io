@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position: fixed;
+    right: 2.5%;
+    bottom: 20%;
+}
+.navbar-links{
+    font-family: LeagueSpartan;
+    text-align: right;
+    line-height: 2.3em;
+    font-size: 1.2em;
+}
+.navbar-icons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0.7em;
+    width: 140px;
+    justify-content: space-between;
+}
+a{
+    color: var(--green-bright);
+    text-decoration: none;
+}
+a:hover{
+    color: var(--lightest-slate);
+}

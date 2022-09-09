@@ -1,0 +1,57 @@
+#experience {
+    display: flex;
+    flex-direction: row;
+    margin-top: 6%;
+    margin-left: 15%;
+    width: 85em;
+}
+.experience-company {
+    font-family: "NTR", sans-serif;
+    font-size: 1.75em;
+    color: var(--green-bright);
+    font-weight: bold;
+}
+.experience-title {
+    font-family: "NTR", sans-serif;
+    font-size: 1.75em;
+    font-weight: bold;
+    color: var(--lightest-slate);
+}
+.experience-duration {
+    font-family: "NTR", sans-serif;
+    font-size: 1.125em;
+    color: var(--slate);
+}
+.experience-desc {
+    list-style-type: none;
+    list-style-position: outside;
+    margin: 0;
+    padding: 0;
+    max-width: 80%;
+}
+.experience-desc li {
+    position: relative;
+    padding-top: 0.8em;
+    padding-left: 1.25em;
+    font-size: 1.125em;
+    color: var(--slate);
+}
+.experience-desc li::before {
+    position: absolute;
+    left: 0;
+    content: "▹";
+    color: var(--green-bright);
+}
+.tab-panel {
+    margin-top: -1.75em;
+    padding-left: 1.563em;
+}
+.MuiButtonBase-root {
+    color: var(--lightest-slate) !important;
+}
+.MuiButtonBase-root:focus {
+    color: var(--green-bright) !important;
+}
+.MuiTabs-indicator{
+    background-color: var(--green-bright) !important;
+}

@@ -1,0 +1,52 @@
+#home{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 14%;
+    margin-left: 15%;
+    width: 85em;
+}
+.home-greeting{
+    font-family: LeagueSpartan;
+    font-size: 86px;
+    color: var(--lightest-slate);
+}
+.home-name{
+    color: var(--green-bright);
+}
+.home-subtitle{
+    margin-top: -0.7em;
+    font-family: "NTR", sans-serif;
+    color: var(--lightest-slate);
+    font-size: 3.5em;
+}
+.home-desc{
+    margin-top: -0.7em;
+    font-family: "NTR", sans-serif;
+    color: var(--lightest-slate);
+    font-size: 1.5em;
+    max-width: 48%;
+    margin-bottom: 1.8em;
+}
+.home-contact {
+    font-size: 1.375em;
+    font-weight: bolder;
+    font-family: "NTR", sans-serif;
+    padding: 0.625em 1.875em;
+    cursor: pointer;
+    border: 0.063em solid var(--green-bright);
+    border-radius: 0.25em;
+}
+.home-contact:hover {
+    background-color: var(--lightest-navy);
+}
+.Typist {
+    font-family: LeagueSpartan;
+    color: var(--lightest-slate);
+    text-align: center;
+    font-size: 6em;
+}
+.Typist .Cursor--blinking {
+    color: var(--green-bright);
+    margin-left: 0.20em;
+}

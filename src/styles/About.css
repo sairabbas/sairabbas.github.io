@@ -1,0 +1,46 @@
+#about {
+    display: flex;
+    flex-direction: row;
+    margin-top: 17.5%;
+    margin-left: 15%;
+    width: 85em;
+}
+.about-desc {
+    margin-top: 3%;
+    font-family: "NTR", sans-serif;
+    color: var(--slate);
+    max-width: 29em;
+    font-size: 1.375em;
+    text-align: justify;
+}
+.about-image {
+    max-width: 18.75em;
+    border-radius: 0.625em;
+    box-shadow: 0.375em 0.813em 1.438em -0.313em rgba(0, 0, 0, 0.46);
+    border: none;
+    margin-top: 39%;
+    margin-left: 25%;
+}
+.about-image:hover {
+    transform: translateY(-0.43em);
+}
+.tech-stack{
+    list-style-type: none;
+    list-style-position: outside;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(11em, 1em));
+}
+.tech-stack li{
+    position: relative;
+    padding-left: 1.25em;
+    font-size: 1.125em;
+    color: var(--slate);
+}
+.tech-stack li::before {
+    position: absolute;
+    left: 0;
+    content: "▹";
+    color: var(--green-bright);
+}
