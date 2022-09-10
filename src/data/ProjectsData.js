@@ -69,16 +69,16 @@ export default {
             link: "https://github.com/sairabbas/2Do",
         },
         {
-            title: "Tic Tac Toe",
-            desc: "A tic tac toe board game that has two players play against each other to win, it's graphical user interface is Java GUI based",
-            techStack: "Java MVC Spring",
-            link: "https://github.com/sairabbas/TicTacToe",
+            title: "MockFB",
+            desc: "A Facebook mockup application that explores the social network's ability to connect other user's with one another, it's graphical user interface is Java Swing based",
+            techStack: "Java Observer Swing",
+            link: "https://github.com/sairabbas/MockFB",
         },
         {
-            title: "MockFB",
-            desc: "A Facebook mockup application that explores the social network's ability to connect other user's with one another, it's GUI is also Java GUI based",
-            techStack: "Java Observer/MVC Spring",
-            link: "https://github.com/sairabbas/MockFB",
+            title: "Tic Tac Toe",
+            desc: "A classic tic tac toe board game that has two players play against each other for only one winner to prevail, it's GUI is also based in Java Swing",
+            techStack: "Java MVC Swing",
+            link: "https://github.com/sairabbas/TicTacToe",
         }
     ]
 }

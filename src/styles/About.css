@@ -11,7 +11,6 @@
     color: var(--slate);
     max-width: 29em;
     font-size: 1.375em;
-    text-align: justify;
 }
 .about-image {
     max-width: 18.75em;

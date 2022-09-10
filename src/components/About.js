@@ -19,12 +19,12 @@ export default class About extends React.Component {
                 / about me
                 </span>
                     <p className="about-desc">
-                        I'm a college graduate with a <b>Software Engineering</b> bachelor's degree from
+                        I'm a college graduate with a Bachelors of Science degree in <b>Software Engineering</b> from
                         <a href="https://www.sjsu.edu/bsse/" target="_blank">
                             {" "}
                             San Jose State University
                         </a>
-                        . I am currently seeking full-time <b>Software Development Engineering</b> positions.
+                        . I am currently open for work, seeking full-time <b>Software Development Engineering</b> positions and opportunities.
                         <br></br>
                         Here are some technologies I have worked with before:
                     </p>
