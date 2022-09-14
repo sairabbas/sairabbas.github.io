@@ -1,16 +1,5 @@
 export default {
     Experiences: [
-        // {
-        //     company: "Meta",
-        //     title: "Security Officer @",
-        //     duration: "June 2021 - Present",
-        //     desc: [
-        //         "Monitored and maintained security protocols throughout the headquarters campus",
-        //         "Escalated/de-escalated situations pertaining to the policies of the client",
-        //         "Provided customer service to clients by carrying out safety and security procedures, site-specific policies and when appropriate, emergency response activities",
-        //         "Responded to incidents and critical situations in a calm, problem solving manner"
-        //     ]
-        // },
         {
             company: "Meta",
             title: "Security Officer @",
