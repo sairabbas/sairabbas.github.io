@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12646697.css",
-    "main.js": "/static/js/main.fadbde79.js",
+    "main.js": "/static/js/main.e7f6dfbb.js",
     "static/media/lunarlander.png": "/static/media/lunarlander.76db1a2c8d3849e3e1b1.png",
     "static/media/spaceinvaders.png": "/static/media/spaceinvaders.a49052473bffa51e14eb.png",
     "static/media/NTR-Regular.ttf": "/static/media/NTR-Regular.96839eb7b68e4482d73d.ttf",
@@ -11,10 +11,10 @@
     "static/media/LeagueSpartan.otf": "/static/media/LeagueSpartan.caadcad8af387d419251.otf",
     "index.html": "/index.html",
     "main.12646697.css.map": "/static/css/main.12646697.css.map",
-    "main.fadbde79.js.map": "/static/js/main.fadbde79.js.map"
+    "main.e7f6dfbb.js.map": "/static/js/main.e7f6dfbb.js.map"
   },
   "entrypoints": [
     "static/css/main.12646697.css",
-    "static/js/main.fadbde79.js"
+    "static/js/main.e7f6dfbb.js"
   ]
 }
