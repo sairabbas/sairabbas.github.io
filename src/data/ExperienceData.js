@@ -8,12 +8,10 @@ export default {
                 "Integrated payment processing services (PayPal/Venmo) and digital wallets (Apple Pay) in a property management application so users can pay fees, rents, and utilities",
                 "Utilized SSL certificates to securely transfer customer transaction info between the Apple Pay Gateway and backend API",
                 "Established a revised client user interface with HTML, CSS, and JavaScript",
-                "Created an internal Apple Pay reference document detailing environment set-up and implementation",
                 "Built an online multiplayer website app using ReactJS and bootstrap",
                 "Refactored the existing codebase system design for optimization and best practices",
                 "Maintained real-time synchronization among various users by implementing Ably API",
-                "Improved performance and reduced AWS Lambda cost by rearchitecting endpoint data flow",
-                "Developed a web-scraping algorithm with Cheerio API to parse the most recent images"
+                "Improved performance and reduced AWS Lambda cost by rearchitecting endpoint data flow"
             ]
         },
         {
