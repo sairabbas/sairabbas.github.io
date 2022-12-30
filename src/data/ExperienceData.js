@@ -1,16 +1,19 @@
 export default {
     Experiences: [
         {
-            company: "Infinite Options LLC",
+            company: "Infinite Options",
             title: "Software Engineer Intern @",
             duration: "October 2022 - December 2022",
             desc: [
-                "Integrated payment processing services like PayPal/Venmo and a digital wallet such as Apple Pay on a property management application where users can pay fees, rent, utilities, etc.",
-                "Redesigned the checkout pages for better fluidity when trying to make a payment",
-                "Interacted between the Apple Pay Gateway API endpoint and the backend using SSL certificates for secure data transfer of customer information on their transactions",
-                "Created documentation for the environment set-up and the payment service API implementation",
-                "Refactored existing architecture to eliminate bugs and to provide readable, cleaner code",
-                "Utilized REST endpoints to update the database for any new payments that were made"
+                "Integrated payment processing services (PayPal/Venmo) and digital wallets (Apple Pay) in a property management application so users can pay fees, rents, and utilities",
+                "Utilized SSL certificates to securely transfer customer transaction info between the Apple Pay Gateway and backend API",
+                "Established a revised client user interface with HTML, CSS, and JavaScript",
+                "Created an internal Apple Pay reference document detailing environment set-up and implementation",
+                "Built an online multiplayer website app using ReactJS and bootstrap",
+                "Refactored the existing codebase system design for optimization and best practices",
+                "Maintained real-time synchronization among various users by implementing Ably API",
+                "Improved performance and reduced AWS Lambda cost by rearchitecting endpoint data flow",
+                "Developed a web-scraping algorithm with Cheerio API to parse the most recent images"
             ]
         },
         {
