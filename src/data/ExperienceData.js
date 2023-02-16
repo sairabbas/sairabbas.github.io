@@ -1,6 +1,14 @@
 export default {
     Experiences: [
         {
+            company: "Raytheon",
+            title: "Software Engineer I @",
+            duration: "April 2023 - Current",
+            desc: [
+                "In progress..."
+            ]
+        },
+        {
             company: "Infinite Options",
             title: "Software Engineer Intern @",
             duration: "October 2022 - December 2022",

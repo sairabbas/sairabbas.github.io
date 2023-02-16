@@ -7,7 +7,7 @@ export default class About extends React.Component {
         const tech_stack = [
             "Javascript ES6+",
             "Java",
-            "React.js",
+            "React",
             "C++",
             "Python",
             "HTML & CSS"
