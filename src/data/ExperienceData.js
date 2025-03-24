@@ -1,11 +1,19 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default {
     Experiences: [
         {
-            company: "Raytheon",
+            company: "Raytheon (RTX)",
             title: "Software Engineer I @",
-            duration: "April 2023 - Current",
+            duration: "April 2023 - Present",
             desc: [
-                "In progress..."
+                "Developed a Python test bench to automate API/Gateway execution improving test efficiency by 30%",
+                "Integrated multi-threading to reduce execution times by 21% and improved protocol message tracking",
+                "Refactored an outdated C++ code generator tool into Python, enhancing performance and streamlining the application's overall design from 20 + files down to 7",
+                "Automated scenario-based testing with Jenkins for simulations involving hardware and real-time data",
+                "Improved software stability by resolving 5+ critical errors using unit tests and GDB debugging",
+                "Conducted code reviews with teams of 6+ members, ensuring coding standards and best practices",
+                "Debugged and created MATLAB, Perl, Shell, and Lua scripts for resolving issues and new functionalities",
+                "Collaborated with cross-functional teams to ensure seamless integration of critical software updates"
             ]
         },
         {
@@ -13,12 +21,11 @@ export default {
             title: "Software Engineer Intern @",
             duration: "October 2022 - December 2022",
             desc: [
-                "Integrated payment processing services (PayPal/Venmo) and digital wallets (Apple Pay) in a property management application so users can pay fees, rents, and utilities",
-                "Utilized SSL certificates to securely transfer customer transaction info between the Apple Pay Gateway and backend API",
-                "Established a revised client user interface with HTML, CSS, and JavaScript",
-                "Built an online multiplayer website app using ReactJS and bootstrap",
-                "Maintained real-time synchronization among various users by implementing Ably API",
-                "Improved performance and reduced AWS Lambda cost by rearchitecting endpoint data flow"
+                "Implemented payment service APIs (Apple Pay, Venmo, PayPal) with JavaScript for payment processing",
+                "Redesigned client-facing web pages with React, improving user experience and lowering transaction drop - off rates by 10%",
+                "Optimized AWS Lambda usage, reducing API call frequency and decreasing operational costs by 20%",
+                "Designed a web-scraping algorithm with Cheerio API to automate content updates from CNN blogs",
+                "Leveraged SSL certificates to securely transfer transaction data between Apple Pay servers and Flask backend API when validating merchant requests"
             ]
         },
         {
